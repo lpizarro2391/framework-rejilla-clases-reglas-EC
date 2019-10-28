@@ -5,7 +5,7 @@
 .container-fluid{
   margin-top: 64px;
 }
-.jumbotron{
+.jumbotron-fluid{
   background: red;
   min-height: 500px;
   border-radius: 0px !important;
