@@ -1,12 +1,17 @@
+.cinema-body{
+  background: gray;
+}
+/* Clase para darle estilos a la barra de navegacion */
 .navbar{
   min-height: 10%;
   background: red;
+  border: none;
 }
 .container-fluid{
   margin-top: 64px;
 }
 .jumbotron-fluid{
-  background: red;
+  background: yellow;
   min-height: 500px;
   border-radius: 0px !important;
   margin-bottom: 0px;
