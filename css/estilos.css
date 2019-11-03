@@ -10,7 +10,7 @@
 .container-fluid{
   margin-top: 64px;
 }
-.jumbotron-fluid{
+.jumbotron{
   background: yellow;
   min-height: 500px;
   border-radius: 0px !important;
@@ -19,4 +19,16 @@
 .titulo-cartelera{
   min-height: 45px;
   background: blue;
+}
+.movies-row{
+  background-color: purple;
+  min-height: 350px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.movie-column{
+  margin-top: 5px;
+  background: black;
+  min-height: 330px;
+  border: 1px dashed #FFFFFF;
 }
