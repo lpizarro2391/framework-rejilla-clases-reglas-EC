@@ -39,3 +39,6 @@
   .right-column {
     display: none;
   }
+.left-column{
+  border: 1px dashed #FFFFFF;
+}
