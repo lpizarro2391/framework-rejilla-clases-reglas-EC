@@ -26,9 +26,16 @@
   padding-left: 15px;
   padding-right: 15px;
 }
-.movie-column{
+/* Clase para darle estilos a las columnas*/
+.movies-column {
   margin-top: 5px;
-  background: black;
+  background: #00678E;
   min-height: 330px;
   border: 1px dashed #FFFFFF;
 }
+
+@media (max-width: 770px) {
+  /* Clase para ocultar componentes HTML */
+  .right-column {
+    display: none;
+  }
