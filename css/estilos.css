@@ -12,7 +12,7 @@
 }
 .jumbotron{
   background: yellow;
-  min-height: 500px;
+  min-height: 350px;
   border-radius: 0px !important;
   margin-bottom: 0px;
 }
@@ -22,7 +22,7 @@
 }
 .movies-row{
   background-color: purple;
-  min-height: 350px;
+  min-height: 250px;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -30,7 +30,7 @@
 .movies-column {
   margin-top: 5px;
   background: #00678E;
-  min-height: 330px;
+  min-height: 230px;
   border: 1px dashed #FFFFFF;
 }
 
