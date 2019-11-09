@@ -30,7 +30,7 @@
   min-height: 500px;
   border-radius: 0px !important;
   margin-bottom: 0px;
-  
+
 }
 
 .jumbotron-img {
@@ -151,4 +151,29 @@
     padding: 6px;
     margin-top: 22px;
   }
+  .user_data{
+    margin-top: 10px;
+    color: white;
+    font-size: 18px;
+  }
+  .label-class {
+  color: #FFFFFF;
+  font-size: 13px;
+  margin-right: 10px;
+}
+.input-element {
+  width: 100%;
+  height: 28px;
+  padding: 10px;
+  color: #FFFFFF;
+  background-color: rgba(255,255,255,0.4);
+  border-radius: 4px;
+  border: none;
+  margin-top: 5px;
+}
+.btn-save {
+  width: 40%;
+  background-color: rgba(8, 45, 94, 0.95);
+  color: #FFFFFF;
+}
 }
